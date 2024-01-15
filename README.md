@@ -1,23 +1,13 @@
 # GOOD TRIP
 
-Breve descrição ou propósito do projeto.
-
-## Demonstração
-
-Inclua um link para a demonstração do projeto, se aplicável.
+Projeto do curso introdutório ao Desenvolvimento Web.
+O intuito deste projeto é trabalhar os conceitos de HTML e CSS criando um site de página única de uma agencia de viagens.
 
 ## Tecnologias Utilizadas
 
-- Linguagem de Programação: [Exemplo: JavaScript]
-- Framework: [Exemplo: React]
-- Banco de Dados: [Exemplo: MongoDB]
-- Outras Tecnologias ou Bibliotecas: [Exemplo: Redux, Express]
+- HTML5
+- CSS3
 
 ## Como Iniciar
 
-Forneça instruções claras sobre como os desenvolvedores podem configurar e executar o seu projeto localmente. Certifique-se de incluir todos os pré-requisitos necessários.
-
-```bash
-# Exemplo de comandos para instalar dependências e iniciar o projeto
-npm install
-npm start
+Basta abrir o arquivo index.html utilizando o browser 😃
