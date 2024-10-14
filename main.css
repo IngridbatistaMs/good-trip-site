@@ -4,8 +4,9 @@
   text-shadow: 3px 3px 3px black;
 }
 h5, h1{
-    color: #ffc357;
+    color: #f4d59b;
 }
+
 h2{
     color: #6f4923;
 }
@@ -15,18 +16,19 @@ p{
 .card-product {
     margin: 0 auto; /* Added */
     float: none; /* Added */
-    margin-bottom: 10px; /* Added */
+    margin-bottom: 5px; /* Added */
     border: 0px;
-    background-color: #ffffdd;
+    background-color: #ffffff;
     
 }
 .card{
     border: none;
+    background-color: transparent;
 }
 
 .we-team {
-    border-radius: 50%;
-    width: 200px;
+    border-radius: 70%;
+    width: 100px;
 }
 body{
     background-color: #97abb5;
@@ -37,6 +39,6 @@ body{
     text-transform: uppercase;
 }
 .nav-link{
-    color: white;
+    color: rgb(255, 255, 255);
     text-shadow: 2px 2px 2px rgb(177, 175, 175);
 }
